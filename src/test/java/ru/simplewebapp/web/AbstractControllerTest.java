@@ -13,10 +13,6 @@ import org.springframework.web.filter.CharacterEncodingFilter;
 
 import javax.annotation.PostConstruct;
 
-/**
- * User: gkislin
- * Date: 10.08.2014
- */
 @ContextConfiguration({
         "classpath:spring/spring-mvc.xml",
         "classpath:spring/spring-db.xml"

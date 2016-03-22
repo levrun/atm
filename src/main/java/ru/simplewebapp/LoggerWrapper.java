@@ -3,10 +3,6 @@ package ru.simplewebapp;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-/**
- * User: gkislin
- * Date: 22.01.14
- */
 public class LoggerWrapper {
 
     private Logger logger;
