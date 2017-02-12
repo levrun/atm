@@ -1,3 +1,14 @@
+This is a sample project with Spring 4, Spring  Security, Spring Data JPA, JS, JQuery
+Deployed on heroku PAAS. 
+
+Use credentials in order to login to the system:
+
+```text
+https://atm-v1.herokuapp.com/
+Credentials:
+11111111111111/1234 or 222222222222222/1234 
+```
+
 Тестовое задание.
 
 
